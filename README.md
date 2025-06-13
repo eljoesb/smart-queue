@@ -192,6 +192,37 @@ Run the tests with:
 ./mvnw test
 ```
 
+### Tests To Be Implemented
+
+The following test suites need to be implemented to ensure comprehensive coverage:
+
+1. **Unit Tests**
+
+   - Appointment scheduling logic
+   - Wait time prediction algorithms
+   - Patient notification service
+   - Queue management optimization
+
+2. **Integration Tests**
+
+   - Database operations
+   - External service integrations
+   - API endpoint functionality
+   - Cross-service communication
+
+3. **End-to-End Tests**
+
+   - Complete appointment lifecycle
+   - Patient journey scenarios
+   - System-wide workflows
+   - Error handling and recovery
+
+4. **Performance Tests**
+   - Load testing under concurrent users
+   - Response time benchmarks
+   - Database query optimization
+   - Resource utilization monitoring
+
 ## 🤝 Contributing
 
 1. Fork the repository
